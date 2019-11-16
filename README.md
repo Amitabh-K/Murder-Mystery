@@ -1,8 +1,6 @@
 # Murder-Mystery
 Directions:
-For this quiz, you're going to help solve a fictitious murder mystery that happened here at Udacity! A murder mystery is a game typically played at parties wherein one of the partygoers is secretly, and unknowingly, playing a murderer, and the other attendees must determine who among them is the criminal. It's a classic case of whodunnit.
-
-Since this might be your first time playing a murder mystery, we've simplified things quite a bit to make it easier. Here's what we know! In this murder mystery there are:
+For this quiz, I am going to help solve a fictitious murder mystery that happened here! A murder mystery is a game typically played at parties wherein one of the partygoers is secretly, and unknowingly, playing a murderer, and the other attendees must determine who among them is the criminal. It's a classic case of whodunnit.
 
 four rooms: the ballroom, gallery, billiards room, and dining room,
 four weapons: poison, a trophy, a pool stick, and a knife,
@@ -31,6 +29,6 @@ What goes into the three blank spaces? You can fill in the blanks with the name 
 Mr. Parkes did it in the dining room with the knife!
 Be sure to watch out for any extra or missing characters (including spaces and punctuation marks) in your output string as well!
 
-TIP: Test your code with different values. For example,
+
 
 If room equals gallery and suspect equals Ms. Van Cleve, then Ms. Van Cleve did it in the gallery with the trophy! should be printed to the console.
